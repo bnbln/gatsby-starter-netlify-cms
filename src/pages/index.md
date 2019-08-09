@@ -2,9 +2,15 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-mainpitch:
-  title: Die Große Arkana
-  url: arkana
+links:
+  - title: Die Große Arkana
+    url: deck
+  - title: Die Kleine Arkana
+    url: deck
+  - title: Elemente
+    url: colors
+  - title: Legetechniken
+    url: techniken
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 description: >-
