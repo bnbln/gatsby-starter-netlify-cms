@@ -7,9 +7,8 @@ arkana: Große Arkana
 color: Erde
 description: Eine Karte
 natural:
-  - Top
-  - Leichtsinn
+  - ''
 upsidedown:
-  - Verkopft
+  - ''
 ---
 __
