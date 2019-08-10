@@ -12,6 +12,4 @@ natural:
 upsidedown:
   - Verkopft
 ---
-_Body Text_
-
-* **Hier könnte ihre Werbung stehen**
+__
