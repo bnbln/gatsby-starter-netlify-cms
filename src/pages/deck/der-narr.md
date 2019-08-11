@@ -1,11 +1,15 @@
 ---
 templateKey: deck-page
-id: 0
 title: Der Narr
-arkana: Große Arkana
-description: Eine Karte
 image: /img/blog-index.jpg
+id: 0
+arkana: Große Arkana
 color: Feuer
+description: Eine Karte
+short:
+  common: abc
+  job: geh
+  love: def
 natural:
   - Top
   - Leichtsinn
