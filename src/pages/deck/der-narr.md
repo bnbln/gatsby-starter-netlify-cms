@@ -1,10 +1,12 @@
 ---
 templateKey: deck-page
-title: Der Narr
+title: Der Narro
 image: /img/blog-index.jpg
 id: 0
 arkana: Große Arkana
 color: Feuer
+zodiac: Stier
+planets: Mond
 description: Eine Karte
 short:
   common: abc
