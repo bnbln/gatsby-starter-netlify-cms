@@ -17,6 +17,8 @@ natural:
   - Leichtsinn
 upsidedown:
   - Verkopft
+related:
+  - Der Narr
 ---
 _Body Text_
 
