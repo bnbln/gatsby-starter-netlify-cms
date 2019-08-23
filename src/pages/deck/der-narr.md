@@ -2,6 +2,7 @@
 templateKey: deck-page
 title: Der Narro
 image: /img/blog-index.jpg
+background: true
 id: 0
 arkana: Große Arkana
 color: Feuer
